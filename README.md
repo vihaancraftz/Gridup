@@ -1,5 +1,4 @@
 # GridUp
-An upcoming management application for teams to use
-assign tasks, make tasks, post updates and more upcoming in this project
+An upcoming Productivity application for students who are looking for an app for productivity.
 
 **Warning: THIS PROJECT IS IN DEVELOPMENT**
